@@ -1,3 +1,9 @@
+```
+bpkg install iamale/redoflacs
+```
+
+---
+
 ## [redoflacs](/sirjaren/redoflacs)
 `redoflacs`: Parallel BASH commandline FLAC compressor, verifier, organizer, analyzer, and retagger
 

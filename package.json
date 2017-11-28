@@ -1,0 +1,7 @@
+{
+  "name": "redoflacs",
+  "version": "0.31-pre",
+  "description": "Parallel BASH commandline FLAC compressor, verifier, organizer, analyzer, and retagger",
+  "scripts": ["redoflacs"],
+  "install": "make install"
+}
